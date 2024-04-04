@@ -4,6 +4,7 @@ build/
 *.iml
 *.class
 *.log
+*.log.gz
 *.jar
 *.war
 *.pid
